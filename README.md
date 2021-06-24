@@ -14,6 +14,7 @@
   - 选课顺序指导
   - 选课老师指导
   - 选课要求(争取)
-3. 相关Q&A索引
+3. 一些工具的配置与使用
+4. 相关Q&A索引
 
 [GitHub Main page](https://github.com/SCU-CS)
