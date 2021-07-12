@@ -45,16 +45,17 @@
 
 ## 结构图
 
-![architecture](image/architecture.png)
+![architecture](image/architecture.jpg)
 
 蓝色**README**表示当前这个仓库；指向的每一块表示一个仓库，第一栏为相关的课程（可能跟实际的课程名不完全相同），其中粗斜体表示文件夹，其他均为文件（使用`Markdown`格式）。
 
 ## 贡献
 
-1.  正确使用标点符号
-2.  熟悉`markdown`语法
-3.  图片放在`./image`下
-4.  了解`docsify`（用于构建网页）
+1.  fork或者建分支之后发pr
+2.  正确使用标点符号
+3.  熟悉`markdown`语法
+4.  图片放在`./image`下
+5.  了解`docsify`（用于构建网页）
 
 [GitHub Main page](https://github.com/SCU-CS)
 
