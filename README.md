@@ -1,7 +1,7 @@
 # SCU-CS
 
-![GitHub issues](https://img.shields.io/github/issues/SCU-CS/ComputerNetwork)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.ComputerNetwork)
+![GitHub issues](https://img.shields.io/github/issues/SCU-CS/README)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.README)
 [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/SCU-CS/Contributors)
 
 
@@ -40,6 +40,7 @@
   - 自学材料
   - 课程用书
   - 课程PPT(因为可能存在仓库过大，存储空间不够的问题 希望链接到自己仓库)
+  - PDF(这事儿可能有风险，没给获取链接的，就悄悄用，给了获取链接或地址的，就可以随便用了)
   - 代码等相关材料
 2. 选课指导(专业课程为主)
   - 选课顺序指导
@@ -48,6 +49,14 @@
 3. 一些工具的配置与使用
 4. 相关Q&A索引
 
+## 电子书获取
+
+主要三个途径
+- [ZLibrary](https://z-lib.org/)
+- GitHub/GitBook
+  - <https://github.com/EbookFoundation/free-programming-books> 里面可以根据语言选择，比如中文和英语的包含内容就不一样
+  - <https://github.com/justjavac/free-programming-books-zh_CN> 都是中文
+- QQ群（诸如此类可以分享文件的平台）和一些散的链接（其他仓库或多或少会包含一些）
 ## 声明
 
 > 一个人也许走得更快，但一群人走得更远
