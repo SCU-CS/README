@@ -1,3 +1,5 @@
 - [首页](README.md)
+- [贡献内容](Contribution.md)
+- [贡献者](https://github.com/SCU-CS/Contributors/blob/main/README.md)
 - [工具与环境](https://scu-cs.github.io/Tool-Intro/)
 - [操作系统](https://scu-cs.github.io/OperationSystem/)
