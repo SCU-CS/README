@@ -56,6 +56,7 @@
 - GitHub/GitBook
   - <https://github.com/EbookFoundation/free-programming-books> 里面可以根据语言选择，比如中文和英语的包含内容就不一样
   - <https://github.com/justjavac/free-programming-books-zh_CN> 都是中文
+  - <https://github.com/keithnull/TeachYourselfCS-CN> 一些精简内容
 - QQ群（诸如此类可以分享文件的平台）和一些散的链接（其他仓库或多或少会包含一些）
 ## 声明
 
