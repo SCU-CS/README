@@ -2,4 +2,22 @@
 - [贡献内容](Contribution.md)
 - [贡献者](https://github.com/SCU-CS/Contributors/blob/main/README.md)
 - [工具与环境](https://scu-cs.github.io/Tool-Intro/)
-- [操作系统](https://scu-cs.github.io/OperationSystem/)
+- [课程模板库](https://scu-cs.github.io/Course-Template/)
+- 必修课
+  - 大一
+    - [C/C++](https://scu-cs.github.io/C-Cpp/)
+    - 汇编
+  - 大二
+    - 计算机组成原理
+    - 数据结构
+    - 微机接口
+    - [操作系统](https://scu-cs.github.io/OperationSystem/)
+  - 大三
+    - [计算机网络](https://scu-cs.github.io/ComputerNetwork/)
+    - 软件工程
+    - 数据库原理
+    - 编译原理
+    - 计算机体系结构
+- 选修课
+- 跨专业
+- 公选课
