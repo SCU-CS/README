@@ -5,8 +5,8 @@
 [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/SCU-CS/Contributors)
 
 
-欢迎来到四川大学计算机学院公开仓库
-
+欢迎来到四川大学计算机学院公开仓库  
+~~已有内容可以看看左侧侧边栏~~
 ## 起源
 
 >   想法的起点来自2021年春季学期末正选阶段国际周、培养计划不清晰等问题的暴露。
