@@ -4,22 +4,27 @@
 - [贡献者](https://github.com/SCU-CS/Contributors/blob/main/README.md)
 - [工具与环境](https://scu-cs.github.io/Tool-Intro/)
 - [课程模板库](https://scu-cs.github.io/Course-Template/)
-- 必修课
+- 必修课(打 \* 号的为计算机科学与技术、物联网工程、人工智能三个专业中部分专业的必修课程)
   - 大一
     - [C/C++](https://scu-cs.github.io/C-Cpp/)
-    - 汇编
+    - 汇编语言(待补充) \*
+    - 数字逻辑(待补充)
   - 大二
-    - 计算机组成原理
-    - 数据结构
-    - 微机接口
+    - 计算机组成原理(待补充)
+    - 数据结构(待补充)
+    - 微机接口(待补充)
     - [操作系统](https://scu-cs.github.io/OperationSystem/)
   - 大三
     - [计算机网络](https://scu-cs.github.io/ComputerNetwork/)
-    - 软件工程
-    - 数据库原理
-    - 编译原理
-    - 计算机体系结构
+    - 软件工程(待补充)
+    - 数据库原理(待补充)
+    - 编译原理(待补充)
+    - 计算机体系结构(待补充)
   - 其他必修
 - 选修课
+  -  计算机导论(待补充)
+  -  UNIX操作系统(待补充)
+  -  Python程序设计(待补充)
+  -  编程实战or算法集训(待补充)
 - 跨专业
 - 公选课
