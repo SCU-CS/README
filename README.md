@@ -93,3 +93,11 @@
 
 [跳转至主页](https://github.com/SCU-CS)
 
+## 参考与临近项目
+
+- [同济课程资料](https://tj-csccg.github.io/2020/09/07/TJCS-Course/)
+- [中科大课程资源](https://ustc-resource.github.io/USTC-Course/)
+- [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
+- [上海交通大学飞跃手册](https://survivesjtu.github.io/SJTU-Application/#/)
+- [南方科技大学飞跃手册](https://sustech-application.github.io/2019-Fall/#/)
+- [寻路桐梓版-中南大学医科大佬](https://xunlutzp.github.io/)

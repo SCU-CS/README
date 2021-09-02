@@ -7,6 +7,7 @@
 
 1. **README.md** : 那三个 badge 的仓库地址
 2. **index.html** : `script` 的 name 改成仓库名（中文）
+3. 侧边栏在 `docsify.d/SideBar.md` 中更改
 
 ### Markdown
 
