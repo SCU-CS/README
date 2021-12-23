@@ -93,7 +93,7 @@
 
 [跳转至主页](https://github.com/SCU-CS)
 
-## 参考与临近项目
+## 参考与邻近项目
 
 - [同济课程资料](https://tj-csccg.github.io/2020/09/07/TJCS-Course/)
 - [中科大课程资源](https://ustc-resource.github.io/USTC-Course/)
